@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
         builder: (context, localeModel, child) => MaterialApp(
           title: 'PezaWako',
           theme: ThemeData(
-            fontFamily: 'Fuzzy_Bubbles',
+            fontFamily: 'Inter',
             // This is the theme of your application.
             //
             // Try running your application with "flutter run". You'll see the
